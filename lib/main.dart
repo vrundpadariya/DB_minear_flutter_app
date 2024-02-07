@@ -1,12 +1,15 @@
-import 'package:flutter/material.dart.dart';
+import 'package:dbminear/app/screen/homepage/views/homescreen.dart';
+import 'package:flutter/material.dart';
+
 
 void main() {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        '/':=>SplashScreen(),
-      }
+        // '/': (ctx) => SplashScreen(),
+        '/': (ctx) => home(),
+      },
     ),
   );
 }

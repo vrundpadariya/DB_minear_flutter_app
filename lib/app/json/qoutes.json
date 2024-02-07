@@ -1,0 +1,2169 @@
+[
+  {
+    "id": 1,
+    "category": "Life",
+    "color":"blue",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Life is 1% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+        "author": "Ralph Waldo Emerson",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is 1% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+        "author": "Abraham Lincoln",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "The good life is one inspired by love and guided by knowledge.",
+        "author": "Bertrand Russell",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "The biggest adventure you can take is to live the life of your dreams.",
+        "author": "Oprah Winfrey",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is short, and it's up to you to make it sweet.",
+        "author": "Sarah Louise Delany",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is either a daring adventure or nothing at all.",
+        "author": "Helen Keller",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+        "author": "Ralph Waldo Emerson",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "author": "Albert Einstein",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is a journey that must be traveled no matter how bad the roads and accommodations.",
+        "author": "Oliver Goldsmith",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is not about waiting for the storm to pass but learning to dance in the rain.",
+        "author": "Vivian Greene",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+        "author": "Ralph Waldo Emerson",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is like a coin. You can spend it any way you wish, but you only spend it once.",
+        "author": "Lillian Dickson",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is 1% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+        "author": "Abraham Lincoln",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "The good life is one inspired by love and guided by knowledge.",
+        "author": "Bertrand Russell",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "The biggest adventure you can take is to live the life of your dreams.",
+        "author": "Oprah Winfrey",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is short, and it's up to you to make it sweet.",
+        "author": "Sarah Louise Delany",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is either a daring adventure or nothing at all.",
+        "author": "Helen Keller",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "author": "Albert Einstein",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is a journey that must be traveled no matter how bad the roads and accommodations.",
+        "author": "Oliver Goldsmith",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is not about waiting for the storm to pass but learning to dance in the rain.",
+        "author": "Vivian Greene",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is like a coin. You can spend it any way you wish, but you only spend it once.",
+        "author": "Lillian Dickson",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is either a daring adventure or nothing at all.",
+        "author": "Helen Keller",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "The good life is one inspired by love and guided by knowledge.",
+        "author": "Bertrand Russell",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "The biggest adventure you can take is to live the life of your dreams.",
+        "author": "Oprah Winfrey",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is short, and it's up to you to make it sweet.",
+        "author": "Sarah Louise Delany",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "author": "Albert Einstein",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is a journey that must be traveled no matter how bad the roads and accommodations.",
+        "author": "Oliver Goldsmith",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is not about waiting for the storm to pass but learning to dance in the rain.",
+        "author": "Vivian Greene",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "favorite": 0
+      },
+      {
+        "id": 1,
+        "quote": "Life is like a coin. You can spend it any way you wish, but you only spend it once.",
+        "author": "Lillian Dickson",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Determination",
+    "color":"amber",
+    "quotes": [
+      {
+        "id": 2,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Motivational",
+    "quotes": [
+      {
+        "id": 3,
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+        "author": "Christian D. Larson",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "The harder the conflict, the greater the triumph.",
+        "author": "George Washington",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. Never let anyone bring you down. You got this.",
+        "author": "Chantal Sutherland",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "The only way to achieve the impossible is to believe it is possible.",
+        "author": "Charles Kingsleigh",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "The future starts today, not tomorrow.",
+        "author": "Pope John Paul II",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Success",
+    "quotes": [
+      {
+        "id": 4,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The road to success and the road to failure are almost exactly the same.",
+        "author": "Colin R. Davis",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success usually comes to those who are too busy to be looking for it.",
+        "author": "Henry David Thoreau",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not the absence of failure; it's the persistence through failure.",
+        "author": "Aisha Tyler",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The secret to success is to know something nobody else knows.",
+        "author": "Aristotle Onassis",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not just about making money. It's about making a difference.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not in what you have, but who you are.",
+        "author": "Bo Bennett",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not the key to success. It's the result of preparation, hard work, and learning from failure.",
+        "author": "Colin Powell",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.",
+        "author": "Mark Zuckerberg",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not about being the best. It's about being better than you were yesterday.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not for the chosen few, but for the few who choose it.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not final, failure is not fatal: It's the courage to continue that counts.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not the destination, it's the journey.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The harder you work for something, the greater you'll feel when you achieve it.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not about being the best. It's about being your best.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not measured by money or power, but by the difference you make in people's lives.",
+        "author": "Michelle Obama",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not about luck; it's about hard work, perseverance, and learning from failure.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The road to success and the road to failure are almost exactly the same.",
+        "author": "Colin R. Davis",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success usually comes to those who are too busy to be looking for it.",
+        "author": "Henry David Thoreau",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not the absence of failure; it's the persistence through failure.",
+        "author": "Aisha Tyler",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The secret to success is to know something nobody else knows.",
+        "author": "Aristotle Onassis",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not in what you have, but who you are.",
+        "author": "Bo Bennett",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "Success is not the key to success. It's the result of preparation, hard work, and learning from failure.",
+        "author": "Colin Powell",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "quote": "The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.",
+        "author": "Mark Zuckerberg",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Inspiration",
+    "quotes": [
+      {
+        "id": 5,
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Success is not final, failure is not fatal: It's the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The future depends on what you do today.",
+        "author": "Mahatma Gandhi",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "You miss 0% of the shots you don't take.",
+        "author": "Wayne Gretzky",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+        "author": "Chinese Proverb",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Dream big and dare to fail.",
+        "author": "Norman Vaughan",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Dream big and dare to fail.",
+        "author": "Norman Vaughan",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+        "author": "Chinese Proverb",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+        "author": "Christian D. Larson",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The harder you work for something, the greater you'll feel when you achieve it.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "You miss 0% of the shots you don't take.",
+        "author": "Wayne Gretzky",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Success is not final, failure is not fatal: It's the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "The future depends on what you do today.",
+        "author": "Mahatma Gandhi",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "You miss 0% of the shots you don't take.",
+        "author": "Wayne Gretzky",
+        "favorite": 0
+      },
+      {
+        "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+        "author": "Chinese Proverb",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Leadership",
+    "quotes": [
+      {
+        "id": 6,
+        "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+        "author": "Ronald Reagan",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+        "author": "Simon Sinek",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The function of leadership is to produce more leaders, not more followers.",
+        "author": "Ralph Nader",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A good leader takes a little more than his share of the blame, a little less than his share of the credit.",
+        "author": "Arnold H. Glasow",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are.",
+        "author": "John C. Maxwell",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+        "author": "John C. Maxwell",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+        "author": "John C. Maxwell",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+        "author": "Simon Sinek",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+        "author": "Ronald Reagan",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The function of leadership is to produce more leaders, not more followers.",
+        "author": "Ralph Nader",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A good leader takes a little more than his share of the blame, a little less than his share of the credit.",
+        "author": "Arnold H. Glasow",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are.",
+        "author": "John C. Maxwell",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A true leader has the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others.",
+        "author": "Douglas MacArthur",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+        "author": "Simon Sinek",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+        "author": "Ronald Reagan",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The function of leadership is to produce more leaders, not more followers.",
+        "author": "Ralph Nader",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A good leader takes a little more than his share of the blame, a little less than his share of the credit.",
+        "author": "Arnold H. Glasow",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are.",
+        "author": "John C. Maxwell",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A true leader has the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others.",
+        "author": "Douglas MacArthur",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The function of leadership is to produce more leaders, not more followers.",
+        "author": "Ralph Nader",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A good leader takes a little more than his share of the blame, a little less than his share of the credit.",
+        "author": "Arnold H. Glasow",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are.",
+        "author": "John C. Maxwell",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A true leader has the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others.",
+        "author": "Douglas MacArthur",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The function of leadership is to produce more leaders, not more followers.",
+        "author": "Ralph Nader",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A good leader takes a little more than his share of the blame, a little less than his share of the credit.",
+        "author": "Arnold H. Glasow",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are.",
+        "author": "John C. Maxwell",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A true leader has the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others.",
+        "author": "Douglas MacArthur",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The function of leadership is to produce more leaders, not more followers.",
+        "author": "Ralph Nader",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A good leader takes a little more than his share of the blame, a little less than his share of the credit.",
+        "author": "Arnold H. Glasow",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are.",
+        "author": "John C. Maxwell",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A true leader has the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others.",
+        "author": "Douglas MacArthur",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+        "author": "Simon Sinek",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+        "author": "Ronald Reagan",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The function of leadership is to produce more leaders, not more followers.",
+        "author": "Ralph Nader",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A good leader takes a little more than his share of the blame, a little less than his share of the credit.",
+        "author": "Arnold H. Glasow",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are.",
+        "author": "John C. Maxwell",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "quote": "A true leader has the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others.",
+        "author": "Douglas MacArthur",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Anniversary",
+    "quotes": [
+      {
+        "id": 7,
+        "quote": "Falling in love is like getting hit by a truck and yet not being mortally wounded. Just sick to your stomach, high one minute, low the next.",
+        "author": "Jackie Collins",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is not a choice. To stay in love is.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is a wonderfully terrifying sensation.",
+        "author": "Steve Maraboli",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is easy, staying in love requires work.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like jumping off a really tall building. Your brain tells you it is not a good idea, but your heart tells you, you can fly.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like holding a candle. Initially, it lightens up the world around you. Then it starts melting and hurt you. Finally, it goes off and everything is darker than ever and all you are left with is the.. BURN!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is easy. Falling in love with the same person repeatedly is extraordinary.",
+        "author": "Crystal Woods",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like leaping from a cliff. Your brain screams that it's not a good idea and that hurt and pain will inevitably come to you. But your heart believes you can soar, glide and fly.",
+        "author": "Marie Coulson",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love consists merely in uncorking the imagination and bottling the common-sense.",
+        "author": "Helen Rowland",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like getting hit by a truck and yet not being mortally wounded. Just sick to your stomach, high one minute, low the next. Starving hungry but unable to eat. Hot, cold, forever horny, full of hope and enthusiasm, with momentary depressions that wipe you out.",
+        "author": "Jackie Collins",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is not a choice. To stay in love is.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is a wonderfully terrifying sensation.",
+        "author": "Steve Maraboli",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is easy, staying in love requires work.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like jumping off a really tall building. Your brain tells you it is not a good idea, but your heart tells you, you can fly.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like holding a candle. Initially, it lightens up the world around you. Then it starts melting and hurt you. Finally, it goes off and everything is darker than ever and all you are left with is the.. BURN!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is easy. Falling in love with the same person repeatedly is extraordinary.",
+        "author": "Crystal Woods",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like leaping from a cliff. Your brain screams that it's not a good idea and that hurt and pain will inevitably come to you. But your heart believes you can soar, glide and fly.",
+        "author": "Marie Coulson",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love consists merely in uncorking the imagination and bottling the common-sense.",
+        "author": "Helen Rowland",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is not a choice. To stay in love is.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like eating mushrooms, you never know if it's the real thing until it's too late.",
+        "author": "Bill Ballance",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like holding a candle. Initially, it lightens up the world around you. Then it starts melting and hurt you. Finally, it goes off and everything is darker than ever and all you are left with is the.. BURN!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is easy, staying in love requires work.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like jumping off a really tall building. Your brain tells you it is not a good idea, but your heart tells you, you can fly.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like leaping from a cliff. Your brain screams that it's not a good idea and that hurt and pain will inevitably come to you. But your heart believes you can soar, glide and fly.",
+        "author": "Marie Coulson",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like getting hit by a truck and yet not being mortally wounded. Just sick to your stomach, high one minute, low the next. Starving hungry but unable to eat. Hot, cold, forever horny, full of hope and enthusiasm, with momentary depressions that wipe you out.",
+        "author": "Jackie Collins",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is not a choice. To stay in love is.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is a wonderfully terrifying sensation.",
+        "author": "Steve Maraboli",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is easy, staying in love requires work.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like jumping off a really tall building. Your brain tells you it is not a good idea, but your heart tells you, you can fly.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like holding a candle. Initially, it lightens up the world around you. Then it starts melting and hurt you. Finally, it goes off and everything is darker than ever and all you are left with is the.. BURN!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is easy. Falling in love with the same person repeatedly is extraordinary.",
+        "author": "Crystal Woods",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like leaping from a cliff. Your brain screams that it's not a good idea and that hurt and pain will inevitably come to you. But your heart believes you can soar, glide and fly.",
+        "author": "Marie Coulson",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love consists merely in uncorking the imagination and bottling the common-sense.",
+        "author": "Helen Rowland",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is not a choice. To stay in love is.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like eating mushrooms, you never know if it's the real thing until it's too late.",
+        "author": "Bill Ballance",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like holding a candle. Initially, it lightens up the world around you. Then it starts melting and hurt you. Finally, it goes off and everything is darker than ever and all you are left with is the.. BURN!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is easy, staying in love requires work.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like jumping off a really tall building. Your brain tells you it is not a good idea, but your heart tells you, you can fly.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is like leaping from a cliff. Your brain screams that it's not a good idea and that hurt and pain will inevitably come to you. But your heart believes you can soar, glide and fly.",
+        "author": "Marie Coulson",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love consists merely in uncorking the imagination and bottling the common-sense.",
+        "author": "Helen Rowland",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Birthday",
+    "quotes": [
+      {
+        "id": 8,
+        "quote": "Count your life by smiles, not tears. Count your age by friends, not years.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Today you are you! That is truer than true! There is no one alive who is you-er than you!",
+        "author": "Dr. Seuss",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Birthdays are a new start, a fresh beginning, and a time to pursue new endeavors with new goals. Move forward with confidence and courage. You're a very special person. May today and all of your days be amazing!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Age is merely the number of years the world has been enjoying you.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Don't count the years, make the years count.",
+        "author": "George Meredith",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Wishing you a day filled with love, joy, and all of your favorite things. Happy birthday!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Birthdays are a time to celebrate dreams, achievements, and the joy of life. May yours be memorable in every way!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "On your birthday, I wish you abundant happiness and love. May all your dreams become a reality. Happy birthday!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Today is the oldest you've ever been and the youngest you'll ever be again. Enjoy this day while it lasts.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Birthdays are nature's way of telling us to eat more cake.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "May your birthday be filled with laughter, joy, and heartfelt wishes. Happy birthday!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Age is an issue of mind over matter. If you don't mind, it doesn't matter.",
+        "author": "Mark Twain",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "It's your birthday! Live it up, laugh out loud, and have a blast. You deserve to have a good time.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Happy birthday! Wishing you a day filled with happiness and a year filled with joy.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "The more you praise and celebrate your life, the more there is in life to celebrate.",
+        "author": "Oprah Winfrey",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Happy birthday to someone who is forever young!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Age is not important unless you're a cheese.",
+        "author": "Helen Hayes",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Birthdays are a great time to stop and appreciate gravity. Sure, it makes things sag as you get older, but it also keeps your cake from flying all over the room, so you don't have to chase it.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Happy birthday! May your Facebook wall be filled with messages from people you never talk to.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Growing old is mandatory, but growing up is optional.",
+        "author": "Walt Disney",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Youth is the gift of nature, but age is a work of art.",
+        "author": "Stanislaw Jerzy Lec",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Birthdays are good for you. Statistics show that people who have the most live the longest!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Happy birthday! Remember, age gets better with wine.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "You don't get older, you get better.",
+        "author": "Shirley Bassey",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Happy birthday! Here's to another year of laughing at our own jokes and keeping each other sane!",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Growing old is a privilege denied to many. Embrace it and celebrate every moment.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Happy birthday! Don't count the candles, count the memories.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Today you are the youngest you will ever be. Celebrate and enjoy each moment.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "quote": "Happy birthday! May your day be as beautiful as you are.",
+        "author": "Unknown",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Happiness",
+    "quotes": [
+      {
+        "id": 9,
+        "quote": "The happiness of your life depends upon the quality of your thoughts.",
+        "author": "Marcus Aurelius",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not something ready-made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The greatest happiness you can have is knowing that you do not necessarily require happiness.",
+        "author": "William Saroyan",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The secret of happiness is not in doing what one likes, but in liking what one does.",
+        "author": "James M. Barrie",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is a warm puppy.",
+        "author": "Charles M. Schulz",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The true secret of happiness lies in the taking a genuine interest in all the details of daily life.",
+        "author": "William Morris",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is a choice. You can choose to be happy. There's going to be stress in life, but it's your choice whether you let it affect you or not.",
+        "author": "Valerie Bertinelli",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The greatest happiness is to know the source of unhappiness.",
+        "author": "Fyodor Dostoevsky",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not a goal; it is a by-product.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+        "author": "Mahatma Gandhi",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The key to happiness is not to have what you want but to want what you have.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The only way to find true happiness is to risk being completely cut open.",
+        "author": "Chuck Palahniuk",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not something you postpone for the future; it is something you design for the present.",
+        "author": "Jim Rohn",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not the absence of problems, it's the ability to deal with them.",
+        "author": "Steve Maraboli",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is a state of mind. It's just according to the way you look at things.",
+        "author": "Walt Disney",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not a possession to be prized. It is a quality of thought, a state of mind.",
+        "author": "Daphne du Maurier",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The greatest happiness you can have is knowing that you do not necessarily require happiness.",
+        "author": "William Saroyan",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is a choice. You can choose to be happy. There's going to be stress in life, but it's your choice whether you let it affect you or not.",
+        "author": "Valerie Bertinelli",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is a warm puppy.",
+        "author": "Charles M. Schulz",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The secret of happiness is not in doing what one likes, but in liking what one does.",
+        "author": "James M. Barrie",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not something you postpone for the future; it is something you design for the present.",
+        "author": "Jim Rohn",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not the absence of problems, it's the ability to deal with them.",
+        "author": "Steve Maraboli",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is a state of mind. It's just according to the way you look at things.",
+        "author": "Walt Disney",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not a possession to be prized. It is a quality of thought, a state of mind.",
+        "author": "Daphne du Maurier",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.",
+        "author": "Ralph Marston",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is a direction, not a place.",
+        "author": "Sydney J. Harris",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The happiness of your life depends upon the quality of your thoughts.",
+        "author": "Marcus Aurelius",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+        "author": "Mahatma Gandhi",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not a goal; it is a by-product.",
+        "author": "Eleanor Roosevelt",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is the secret to all beauty. There is no beauty without happiness.",
+        "author": "Christian Dior",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is not something ready-made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The greatest happiness you can have is knowing that you do not necessarily require happiness.",
+        "author": "William Saroyan",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "The secret of happiness is not in doing what one likes, but in liking what one does.",
+        "author": "James M. Barrie",
+        "favorite": 0
+      },
+      {
+        "id": 9,
+        "quote": "Happiness is a warm puppy.",
+        "author": "Charles M. Schulz",
+        "favorite": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Funny",
+    "quotes": [
+      {
+        "id": 10,
+        "quote": "I'm sorry, if you were right, I'd agree with you.",
+        "author": "Robin Williams",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I love deadlines. I like the whooshing sound they make as they fly by.",
+        "author": "Douglas Adams",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "The best way to teach your kids about taxes is by eating 30% of their ice cream.",
+        "author": "Bill Murray",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "My fake plants died because I did not pretend to water them.",
+        "author": "Mitch Hedberg",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not superstitious, but I am a little stitious.",
+        "author": "Michael Scott",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.",
+        "author": "Terry Pratchett",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I always arrive late at the office, but I make up for it by leaving early.",
+        "author": "Charles Lamb",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I intend to live forever. So far, so good.",
+        "author": "Steven Wright",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked for forgiveness.",
+        "author": "Emo Philips",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "The only mystery in life is why the kamikaze pilots wore helmets.",
+        "author": "Al McGuire",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "The surest sign that intelligent life exists elsewhere in the universe is that it has never tried to contact us.",
+        "author": "Bill Watterson",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I find television very educational. Every time someone turns it on, I go in the other room and read a book.",
+        "author": "Groucho Marx",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "A day without sunshine is like, you know, night.",
+        "author": "Steve Martin",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not a vegetarian because I love animals. I'm a vegetarian because I hate plants.",
+        "author": "A. Whitney Brown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I don't need a hair stylist, my pillow gives me a new hairstyle every morning.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I never make the same mistake twice. I make it five or six times, just to be sure.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I tried to be normal once. Worst two minutes of my life.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I told my wife she should embrace her mistakes. She gave me a hug.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not lazy, I'm just on energy-saving mode.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "If you can't convince them, confuse them.",
+        "author": "Harry S. Truman",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I don't need Google, my wife knows everything.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not clumsy. It's just that the floor hates me, the tables and chairs are bullies, and the walls get in my way.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "Behind every great man is a woman rolling her eyes.",
+        "author": "Jim Carrey",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I don't go crazy. I am crazy. I just go normal from time to time.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "If a book about failures doesn't sell, is it a success?",
+        "author": "Jerry Seinfeld",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "People say nothing is impossible, but I do nothing every day.",
+        "author": "Winnie the Pooh",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "The best way to lie is to tell the truth, carefully edited truth.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not addicted to coffee, we're just in a committed relationship.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I don't need anger management. I need people to stop pissing me off.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I don't need a hairstylist, my pillow gives me a new hairstyle every morning.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "If I won the award for laziness, I would send somebody to pick it up for me.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not shy, I'm just very good at figuring out who's worth talking to.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not a complete idiot. Some parts are missing.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I don't need a hairstylist, my pillow gives me a new hairstyle every morning.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not lazy, I'm just on energy-saving mode.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "If you can't convince them, confuse them.",
+        "author": "Harry S. Truman",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I don't need Google, my wife knows everything.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not clumsy. It's just that the floor hates me, the tables and chairs are bullies, and the walls get in my way.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "Behind every great man is a woman rolling her eyes.",
+        "author": "Jim Carrey",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I don't go crazy. I am crazy. I just go normal from time to time.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "If a book about failures doesn't sell, is it a success?",
+        "author": "Jerry Seinfeld",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "People say nothing is impossible, but I do nothing every day.",
+        "author": "Winnie the Pooh",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "The best way to lie is to tell the truth, carefully edited truth.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I'm not addicted to coffee, we're just in a committed relationship.",
+        "author": "Unknown",
+        "favorite": 0
+      },
+      {
+        "id": 10,
+        "quote": "I don't need anger management. I need people to stop pissing me off.",
+        "author": "Unknown",
+        "favorite": 0
+      }
+    ]
+  }
+]
