@@ -1,49 +1,62 @@
 import 'dart:convert';
 
+import 'package:dbminear/app/screen/homepage/model/model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class home extends StatelessWidget {
-  const home({super.key});
+class Home extends StatelessWidget {
+  const Home({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.black,
       appBar: AppBar(
-        title: Text("Best qoutes&tatus"),
+        backgroundColor: Colors.black,
+        title: Text(
+          "Best Quotes & Status",
+          style: TextStyle(color: Colors.white),
+        ),
       ),
-      body:  Column(
-        children: [
-           FutureBuilder(
-        future: rootBundle.loadString("bhagwatgeeta.json"),
+      body: FutureBuilder(
+        future: rootBundle.loadString('lib/app/json/qoutes.json'),
         builder: (context, snapshot) {
           if (snapshot.hasError) {
             return Center(
               child: Text("${snapshot.error}"),
             );
           } else if (snapshot.hasData) {
-            var decodedData = jsonDecode(snapshot.data!);
-            List allData =
-                decodedData.map((e) => .fromjson(data: e)).toList();
-            return ListView.builder(
-              itemCount: allData.length,
-              itemBuilder: (context, i) => Card(
-                child: ListTile(
+            List decodedData = jsonDecode(snapshot.data!);
+            List<QuoteModel> quote =
+                decodedData.map((e) => QuoteModel.fromJson(data: e)).toList();
+            return GridView.builder(
+              gridDelegate:
+                  SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2),
+              itemCount: quote.length,
+              itemBuilder: (context, index) {
+                return GestureDetector(
                   onTap: () {
-                    Navigator.pushReplacementNamed(context, 'detail',
-                        arguments: allData[i]);
+                    Navigator.pushNamed(context, 'detail',
+                        arguments: quote[index]);
                   },
-                  title: Text("${allData[i].id}"),
-                  subtitle: Text("${allData[i].sanskrit}"),
-                ),
-              ),
+                  child: Container(
+                      alignment: Alignment.center,
+                      decoration: BoxDecoration(
+                          border: Border.all(color: Colors.white)),
+                      child: Column(
+                        children: [
+                          Text(
+                            "${quote[index].category}",
+                            style: TextStyle(color: Colors.white),
+                          ),
+                        ],
+                      )),
+                );
+              },
             );
           }
-          return const Center(child: CircularProgressIndicator());
+          return Center(child: CircularProgressIndicator());
         },
-      ),
-    );
-        ],
       ),
     );
   }
