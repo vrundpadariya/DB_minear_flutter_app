@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:dbminear/app/screen/homepage/model/model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -10,12 +9,10 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.black,
       appBar: AppBar(
-        backgroundColor: Colors.black,
-        title: Text(
+        title: const Text(
           "Best Quotes & Status",
-          style: TextStyle(color: Colors.white),
+          style: TextStyle(color: Colors.black),
         ),
       ),
       body: FutureBuilder(
@@ -30,8 +27,8 @@ class Home extends StatelessWidget {
             List<QuoteModel> quote =
                 decodedData.map((e) => QuoteModel.fromJson(data: e)).toList();
             return GridView.builder(
-              gridDelegate:
-                  SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2),
+              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 2),
               itemCount: quote.length,
               itemBuilder: (context, index) {
                 return GestureDetector(
@@ -42,20 +39,17 @@ class Home extends StatelessWidget {
                   child: Container(
                       alignment: Alignment.center,
                       decoration: BoxDecoration(
-                          border: Border.all(color: Colors.white)),
-                      child: Column(
-                        children: [
-                          Text(
-                            "${quote[index].category}",
-                            style: TextStyle(color: Colors.white),
-                          ),
-                        ],
+                          color: Color(int.parse(quote[index].color)),
+                          border: Border.all(color: Colors.black)),
+                      child: Text(
+                        quote[index].category,
+                        style: const TextStyle(color: Colors.black),
                       )),
                 );
               },
             );
           }
-          return Center(child: CircularProgressIndicator());
+          return const Center(child: CircularProgressIndicator());
         },
       ),
     );

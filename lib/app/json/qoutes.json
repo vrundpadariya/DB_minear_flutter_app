@@ -2,7 +2,7 @@
   {
     "id": 1,
     "category": "Life",
-    "color":"blue",
+    "color":"0xffCDAC81",
     "quotes": [
       {
         "id": 1,
@@ -249,7 +249,7 @@
   {
     "id": 2,
     "category": "Determination",
-    "color":"amber",
+    "color":"0xffECE8D9",
     "quotes": [
       {
         "id": 2,
@@ -472,6 +472,7 @@
   {
     "id": 3,
     "category": "Motivational",
+    "color":"0xff7286D3",
     "quotes": [
       {
         "id": 3,
@@ -604,6 +605,7 @@
   {
     "id": 4,
     "category": "Success",
+    "color":"0xffD6E5FA",
     "quotes": [
       {
         "id": 4,
@@ -796,6 +798,7 @@
   {
     "id": 5,
     "category": "Inspiration",
+    "color":"0xffF4DADA",
     "quotes": [
       {
         "id": 5,
@@ -1023,6 +1026,7 @@
   {
     "id": 6,
     "category": "Leadership",
+    "color":"0xffC6CFFF",
     "quotes": [
       {
         "id": 6,
@@ -1251,6 +1255,7 @@
   {
     "id": 7,
     "category": "Anniversary",
+    "color":"0xffB6FFFA",
     "quotes": [
       {
         "id": 7,
@@ -1497,6 +1502,7 @@
   {
     "id": 8,
     "category": "Birthday",
+    "color":"0xffF7D1BA",
     "quotes": [
       {
         "id": 8,
@@ -1683,6 +1689,7 @@
   {
     "id": 9,
     "category": "Happiness",
+    "color":"0xffFDFAF6",
     "quotes": [
       {
         "id": 9,
@@ -1893,6 +1900,7 @@
   {
     "id": 10,
     "category": "Funny",
+    "color":"0xff88AB8E",
     "quotes": [
       {
         "id": 10,
