@@ -1,4 +1,5 @@
 import 'dart:convert';
+
 import 'package:dbminear/app/screen/homepage/model/model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -16,7 +17,7 @@ class Home extends StatelessWidget {
         ),
       ),
       body: FutureBuilder(
-        future: rootBundle.loadString('lib/app/json/qoutes.json'),
+        future: rootBundle.loadString('lib/app/asset/json/qoutes.json'),
         builder: (context, snapshot) {
           if (snapshot.hasError) {
             return Center(
@@ -37,14 +38,15 @@ class Home extends StatelessWidget {
                         arguments: quote[index]);
                   },
                   child: Container(
-                      alignment: Alignment.center,
-                      decoration: BoxDecoration(
-                          color: Color(int.parse(quote[index].color)),
-                          border: Border.all(color: Colors.black)),
-                      child: Text(
-                        quote[index].category,
-                        style: const TextStyle(color: Colors.black),
-                      )),
+                    alignment: Alignment.center,
+                    decoration: BoxDecoration(
+                        color: Color(int.parse(quote[index].color)),
+                        border: Border.all(color: Colors.black)),
+                    child: Text(
+                      quote[index].category,
+                      style: const TextStyle(color: Colors.black),
+                    ),
+                  ),
                 );
               },
             );

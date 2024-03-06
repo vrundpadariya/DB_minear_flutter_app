@@ -8,32 +8,32 @@ class SplashScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Timer(Duration(seconds: 3), () {
-      Navigator.pushReplacementNamed(context, 'intr');
+    Timer(const Duration(seconds: 3), () {
+      Navigator.pushReplacementNamed(context, 'home');
     });
     return Scaffold(
         backgroundColor: Colors.white,
         body: Center(
           child: Column(
             children: [
-              SizedBox(
+              const SizedBox(
                 height: 250,
               ),
               Container(
-                height: 200,
-                width: 200,
+                height: 300,
+                width: 300,
                 decoration: const BoxDecoration(
                   image: DecorationImage(
-                    image: AssetImage("lib/app/assets/Outerspace.gif"),
+                    image: AssetImage("lib/app/asset/Woman reading.gif"),
                   ),
                 ),
               ),
-              SizedBox(
-                height: 300,
+              const SizedBox(
+                height: 200,
               ),
               Text(
-                "SOLTECH",
-                style: GoogleFonts.roboto(fontSize: 25, letterSpacing: 10),
+                "Best Quotes and Status",
+                style: GoogleFonts.roboto(fontSize: 25, letterSpacing: 5),
               )
             ],
           ),

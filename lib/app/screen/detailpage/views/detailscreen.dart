@@ -1,30 +1,38 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_share/flutter_share.dart';
+import 'dart:developer';
+
+import 'package:dbminear/app/database/db_helper.dart';
 import 'package:dbminear/app/screen/detailpage/utilies%20/bgcolour.dart';
 import 'package:dbminear/app/screen/homepage/model/model.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_share/flutter_share.dart';
 
 class DetailScreen extends StatelessWidget {
   const DetailScreen({Key? key});
 
   @override
   Widget build(BuildContext context) {
-    QuoteModel quoteModel =
-        ModalRoute.of(context)?.settings.arguments as QuoteModel;
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text(
-          "Best Quotes & Status",
+    QuoteModel? quoteModel =
+        ModalRoute.of(context)?.settings.arguments as QuoteModel?;
+    if (quoteModel == null) {
+      return Scaffold(
+        appBar: AppBar(
+          title: const Text("Error"),
         ),
-      ),
-      body: ListView.builder(
-        itemCount: quoteModel.quotes.length,
-        itemBuilder: (context, index) {
-          return GestureDetector(
-            onTap: () {
-              Navigator.pushReplacementNamed(context, 'subdetai',
-                  arguments: quoteModel.quotes[index]);
-            },
-            child: Container(
+        body: const Center(
+          child: Text("Error: Quote data not found"),
+        ),
+      );
+    } else {
+      return Scaffold(
+        appBar: AppBar(
+          title: const Text(
+            "Best Quotes & Status",
+          ),
+        ),
+        body: ListView.builder(
+          itemCount: quoteModel.quotes.length,
+          itemBuilder: (context, index) {
+            return Container(
               alignment: Alignment.bottomRight,
               height: 300,
               width: double.infinity,
@@ -66,6 +74,18 @@ class DetailScreen extends StatelessWidget {
                             ),
                           ),
                         ),
+                        IconButton(
+                          onPressed: () {
+                            Future<int?> res = DBHelper.dbHelper
+                                .insertQuote(m_quote: quoteModel.quotes[index]);
+                            log('${res}');
+                            Navigator.pushReplacementNamed(context, 'fav');
+                          },
+                          icon: const Icon(
+                            Icons.favorite_border,
+                            color: Colors.black,
+                          ),
+                        ),
                         GestureDetector(
                           onTap: () {},
                           child: Container(
@@ -86,11 +106,11 @@ class DetailScreen extends StatelessWidget {
                   ],
                 ),
               ),
-            ),
-          );
-        },
-      ),
-    );
+            );
+          },
+        ),
+      );
+    }
   }
 
   void _shareQuote(String quoteText) async {

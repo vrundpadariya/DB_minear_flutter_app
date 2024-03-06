@@ -16,6 +16,7 @@ class DBHelper {
   String table_name = 'quote';
   String id = 'id';
   String quote = 'quote';
+  String authore = 'authore';
   String category = 'category';
 
   initDB() async {
@@ -27,7 +28,7 @@ class DBHelper {
       version: 1,
       onCreate: (db, version) {
         String query =
-            "CREATE TABLE IF NOT EXISTS $table_name($id INTEGER PRIMARY KEY AUTOINCREMENT,$quote TEXT,$category TEXT);";
+            "CREATE TABLE IF NOT EXISTS $table_name($id INTEGER PRIMARY KEY AUTOINCREMENT,$quote TEXT,$category TEXT,$authore TEXT);";
         db.execute(query);
       },
     );
@@ -35,7 +36,8 @@ class DBHelper {
 
   Future<int?> insertQuote({required QuoteModel m_quote}) async {
     await initDB();
-    String query = "INSERT INTO $table_name($quote,$category) VALUES(?,?);";
+    String query =
+        "INSERT INTO $table_name($quote,$category,$authore) VALUES(?,?);";
     List args = [m_quote.quotes, m_quote.category];
     int? res = await database?.rawInsert(query, args);
     return res;
@@ -46,7 +48,7 @@ class DBHelper {
     String query = "SELECT * FROM $table_name;";
     var list = await database?.rawQuery(query);
     List<QuoteModel>? todo =
-        list?.map((e) => QuoteModel.fromDb(data: e)).toList();
+        list?.map((e) => QuoteModel.fromJson(data: e)).toList();
     return todo;
   }
 
