@@ -34,7 +34,7 @@ class DetailScreen extends StatelessWidget {
           itemBuilder: (context, index) {
             return Container(
               alignment: Alignment.bottomRight,
-              height: 300,
+              height: 280,
               width: double.infinity,
               child: Container(
                 alignment: Alignment.center,

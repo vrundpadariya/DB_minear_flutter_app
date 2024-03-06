@@ -1,5 +1,4 @@
 import 'package:dbminear/app/screen/detailpage/views/detailscreen.dart';
-import 'package:dbminear/app/screen/fav/views/fav.dart';
 import 'package:dbminear/app/screen/homepage/views/homescreen.dart';
 import 'package:flutter/material.dart';
 
@@ -13,7 +12,7 @@ void main() {
         '/': (ctx) => const SplashScreen(),
         'home': (ctx) => const Home(),
         'detail': (ctx) => const DetailScreen(),
-        'fav': (ctx) => const favourite(),
+        //'fav': (ctx) =>  favourite(),
       },
     ),
   );

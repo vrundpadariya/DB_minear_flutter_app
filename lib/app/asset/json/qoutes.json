@@ -2173,5 +2173,32 @@
         "favorite": 0
       }
     ]
+  },
+  {
+    "id": 10,
+    "category": "fav",
+    "color":"0xff88AB8E",
+    "quotes": [
+      {
+        "id": 6,
+        "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+        "author": "Ronald Reagan",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "quote": "Falling in love is easy. Falling in love with the same person repeatedly is extraordinary.",
+        "author": "Crystal Woods",
+        "favorite": 0
+      }
+
+
+    ]
   }
 ]
