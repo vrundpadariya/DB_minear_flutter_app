@@ -19,4 +19,12 @@ class QuoteModel {
       color: data['color'],
     );
   }
+  factory QuoteModel.fromDb({required Map data}) {
+    return QuoteModel(
+        category: data['category'],
+        id: data['id'],
+        quotes: data['quotes'],
+        color: data['color']);
+  }
+
 }
