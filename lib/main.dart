@@ -12,7 +12,7 @@ void main() {
         '/': (ctx) => const SplashScreen(),
         'home': (ctx) => const Home(),
         'detail': (ctx) => const DetailScreen(),
-        //'fav': (ctx) =>  favourite(),
+        //'fav': (ctx) => favourite(),
       },
     ),
   );

@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:dbminear/app/screen/homepage/model/model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class Home extends StatelessWidget {
   const Home({Key? key}) : super(key: key);
@@ -27,26 +28,65 @@ class Home extends StatelessWidget {
             List decodedData = jsonDecode(snapshot.data!);
             List<QuoteModel> quote =
                 decodedData.map((e) => QuoteModel.fromJson(data: e)).toList();
-            return GridView.builder(
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount: 2),
+            return ListView.builder(
               itemCount: quote.length,
               itemBuilder: (context, index) {
-                return GestureDetector(
-                  onTap: () {
-                    Navigator.pushNamed(context, 'detail',
-                        arguments: quote[index]);
-                  },
-                  child: Container(
-                    alignment: Alignment.center,
-                    decoration: BoxDecoration(
-                        color: Color(int.parse(quote[index].color)),
-                        border: Border.all(color: Colors.black)),
-                    child: Text(
-                      quote[index].category,
-                      style: const TextStyle(color: Colors.black),
+                return Column(
+                  children: [
+                    const SizedBox(
+                      height: 25,
                     ),
-                  ),
+                    GestureDetector(
+                      onTap: () {
+                        Navigator.pushNamed(context, 'detail',
+                            arguments: quote[index]);
+                      },
+                      child: Container(
+                          height: 200,
+                          width: 350,
+                          alignment: Alignment.center,
+                          decoration: BoxDecoration(
+                            color: Color(
+                              int.parse(quote[index].color),
+                            ),
+                            borderRadius: BorderRadius.circular(20),
+                          ),
+                          child: Column(
+                            children: [
+                              const SizedBox(
+                                height: 30,
+                              ),
+                              Row(
+                                children: [
+                                  const SizedBox(
+                                    width: 100,
+                                  ),
+                                  Text(
+                                    quote[index].category,
+                                    style: GoogleFonts.albertSans(fontSize: 25),
+                                  )
+                                ],
+                              ),
+                              SizedBox(
+                                height: 50,
+                              ),
+                              Row(
+                                mainAxisAlignment: MainAxisAlignment.end,
+                                children: [
+                                  Container(
+                                    height: 150,
+                                    width: 150,
+                                    child: Image.asset(quote[index].image),
+                                  ),
+                                  SizedBox(
+                                    width: 30,
+                                  ),
+                                ],
+                              ),
+                            ],
+                          )),
+                    ),
+                  ],
                 );
               },
             );

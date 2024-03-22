@@ -68,7 +68,7 @@ class DetailScreen extends StatelessWidget {
                               image: DecorationImage(
                                 fit: BoxFit.cover,
                                 image: AssetImage(
-                                  "lib/app/asset/share .png",
+                                  "lib/app/asset/share cake.png",
                                 ),
                               ),
                             ),
