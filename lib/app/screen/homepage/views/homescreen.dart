@@ -54,7 +54,7 @@ class Home extends StatelessWidget {
                           child: Column(
                             children: [
                               const SizedBox(
-                                height: 30,
+                                height: 40,
                               ),
                               Row(
                                 children: [
@@ -67,18 +67,18 @@ class Home extends StatelessWidget {
                                   )
                                 ],
                               ),
-                              SizedBox(
-                                height: 50,
+                              const SizedBox(
+                                height: 30,
                               ),
                               Row(
                                 mainAxisAlignment: MainAxisAlignment.end,
                                 children: [
                                   Container(
-                                    height: 150,
-                                    width: 150,
+                                    height: 80,
+                                    width: 80,
                                     child: Image.asset(quote[index].image),
                                   ),
-                                  SizedBox(
+                                  const SizedBox(
                                     width: 30,
                                   ),
                                 ],
