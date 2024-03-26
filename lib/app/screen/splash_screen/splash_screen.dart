@@ -9,7 +9,7 @@ class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Timer(const Duration(seconds: 3), () {
-      Navigator.pushReplacementNamed(context, 'home');
+      Navigator.pushReplacementNamed(context, 'intr');
     });
     return Scaffold(
         backgroundColor: Colors.white,
@@ -24,7 +24,7 @@ class SplashScreen extends StatelessWidget {
                 width: 300,
                 decoration: const BoxDecoration(
                   image: DecorationImage(
-                    image: AssetImage("lib/app/asset/Woman reading.gif"),
+                    image: AssetImage("lib/app/asset/one2.gif"),
                   ),
                 ),
               ),

@@ -24,11 +24,6 @@ class DetailScreen extends StatelessWidget {
       );
     } else {
       return Scaffold(
-        appBar: AppBar(
-          title: const Text(
-            "Best Quotes & Status",
-          ),
-        ),
         body: ListView.builder(
           itemCount: quoteModel.quotes.length,
           itemBuilder: (context, index) {

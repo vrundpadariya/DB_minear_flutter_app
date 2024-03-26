@@ -11,12 +11,6 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text(
-          "Best Quotes & Status",
-          style: TextStyle(color: Colors.black),
-        ),
-      ),
       body: FutureBuilder(
         future: rootBundle.loadString('lib/app/asset/json/qoutes.json'),
         builder: (context, snapshot) {
